@@ -19,7 +19,7 @@ Dad Jokes Generator is a simple web application that fetches and displays random
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/dad-jokes-generator.git
+   git clone https://github.com/aliulmurtazaalvi/dad-jokes-generator.git
    cd dad-jokes-generator
    ```
 
@@ -27,7 +27,7 @@ Dad Jokes Generator is a simple web application that fetches and displays random
    - Sign up at [API Ninjas](https://api-ninjas.com/) to get a free API key for the Dad Jokes API.
    - Replace the `apiKey` value in `index.js` with your own API key:
      ```javascript
-     const apiKey = 'YOUR_API_KEY_HERE';
+     const apiKey = 'https://api.api-ninjas.com/v1/dadjokes?';
      ```
 
 3. **Serve the Application**:
